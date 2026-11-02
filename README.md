@@ -1,5 +1,4 @@
 # Mobile-Computer-Maintenance-Management-System
-# Mobile & Computer Maintenance Management System
 
 ## Overview
 
