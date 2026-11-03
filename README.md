@@ -35,6 +35,8 @@ The application helps maintenance shops manage customers, devices, repair workfl
 ## Live Demo
 
 **Application:** https://mashero7-001-site1.itempurl.com/Identity/Account/Login?ReturnUrl=%2F
+User Name: ExUser
+Password: ExUser555666
 
 Demo credentials can be provided privately for evaluation purposes.
 
